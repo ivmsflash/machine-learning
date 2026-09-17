@@ -1,0 +1,8 @@
+.env
+.idea
+.venv/
+__pycache__/
+*.pyc
+qdrant_db/
+qdrant_chunks/
+.token_usage.json
