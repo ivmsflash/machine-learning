@@ -26,6 +26,7 @@
 | 5 | `task_5()` | Поиск по сетке (GridSearchCV) |
 | 7* | `task_7()` | Своя функция кросс-валидации |
 | 8* | `task_8()` | Сравнение своей и sklearn `cross_val_score` |
+| 9* | `task_9()` | Свой класс `PolynomialRegression` |
 
 ---
 
@@ -62,6 +63,7 @@ python tasks.py 4
 python tasks.py 5
 python tasks.py 7
 python tasks.py 8
+python tasks.py 9
 python tasks.py all
 ```
 
